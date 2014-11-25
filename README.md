@@ -2,6 +2,20 @@ requestAnimationFrame
 =====================
 > requestAnimationFrame polyfill by [Erik Möller](https://twitter.com/erikjmoller).
 
+Wrapped for meteor.js by @author Daniel Dornhardt <daniel@dornhardt.com>
+---
+
+To Install:
+
+    meteor add yagni:request-animation-frame
+
+---
+
+Note: I made the least number of changes possible to the source repo. Because of that the code just adds the polyfill to the global
+window object instead of the variable being exported for now.
+
+---
+
 Polyfill for requestAnimationFrame and cancelAnimationFrame.
 
 This version of the code is only lightly tested. It's provoked no
