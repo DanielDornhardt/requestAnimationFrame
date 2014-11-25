@@ -12,8 +12,6 @@ To Install:
 
     meteor add yagni:request-animation-frame
 
----
-
 Note: I made the least number of changes possible to the source repo. Because of that the code just adds the polyfill to the global
 window object instead of the variable being exported for now.
 
