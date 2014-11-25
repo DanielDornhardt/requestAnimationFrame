@@ -4,6 +4,8 @@ requestAnimationFrame
 
 Wrapped for meteor.js by [Daniel Dornhardt](https://github.com/DanielDornhardt)
 
+Original repository: [https://github.com/darius/requestAnimationFrame](https://github.com/darius/requestAnimationFrame)
+
 ---
 
 To Install:
