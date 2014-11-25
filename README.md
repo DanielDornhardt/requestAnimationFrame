@@ -2,7 +2,8 @@ requestAnimationFrame
 =====================
 > requestAnimationFrame polyfill by [Erik Möller](https://twitter.com/erikjmoller).
 
-Wrapped for meteor.js by @author Daniel Dornhardt <daniel@dornhardt.com>
+Wrapped for meteor.js by [Daniel Dornhardt](https://github.com/DanielDornhardt)
+
 ---
 
 To Install:
