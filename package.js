@@ -3,7 +3,7 @@ Package.describe({
   summary: "Polyfill for requestAnimationFrame and cancelAnimationFrame",
   homepage: "https://github.com/DanielDornhardt/requestAnimationFrame",
   author: "Daniel Dornhardt <daniel@dornhardt.com> (http://www.dornhardt.com)",
-  version: "1.0.0",
+  version: "1.0.1",
   git: "https://github.com/DanielDornhardt/requestAnimationFrame"
 });
 
